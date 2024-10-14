@@ -1,4 +1,4 @@
-# Me llamo Khoi
+# #2808
 
 <picture>
   <source
@@ -19,15 +19,15 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Khoi</h1>
+<h3 align="center">No fate, nor destiny. Only tomorrow.</h3>
 
 ## 💬 Ask me about
 - A student at University
 - 
 
 ## 📅 Hobbies
-- Solve programming problems at W3school
+- Learn Spanish
 - Watch anime and TV shows
 - Read some manga
 - Play videogames
@@ -47,7 +47,7 @@
 
 ## 🎵 Spotify status
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+<a href="https://open.spotify.com/track/7jtQeepflBNzM1vffn7c8e">
   <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
 
