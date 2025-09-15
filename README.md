@@ -1,5 +1,3 @@
-# #2808
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -20,7 +18,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Khoi</h1>
-<h3 align="center">No fate, nor destiny. Only tomorrow.</h3>
 
 ## 💬 Ask me about
 - A student at University
