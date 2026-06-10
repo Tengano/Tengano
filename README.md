@@ -30,7 +30,7 @@
 
 <p align="left">
   <!-- You can add or remove icons in the "i=..." parameter below -->
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,discord,vscode,php,c,cs,cpp,css,html,js,git,github" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,discord,vscode,php,c,cs,cpp,css,html,js,git,githu" alt="My Skills" />
 </p>
 
 ## 🔗 Connect with me
