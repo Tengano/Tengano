@@ -22,8 +22,8 @@
 - 🎓 Studying at **Vinh University**
 - 💻 Future objectives: **Cyber Security**
 - 🌱 Currently focusing on studying and learning about: **Mastering subnetting, configuring network topologies, and leveling up my coding skills**
-- 💬 Language can speak: **Vietnamese, English, Chinese, Spanish, France**
-- 📫 How to reach me: **xuankhoi288@outlook.com**
+- 💬 Language can speak: **Vietnamese, English, Chinese, Spanish**
+- 📫 How to reach me: **xuankhoi288@gmail.com**
 
 ## 🛠 Tech Stack & Tools
 *Here are some of the technologies and tools I work with:*
