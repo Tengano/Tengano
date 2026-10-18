@@ -20,7 +20,6 @@
 
 ## About Me
 -  Studying at **Vinh University**
--  Future objectives: **Cyber Security**
 -  Language can speak: **Vietnamese, English, Chinese, Spanish**
 -  How to reach me: **xuankhoi288@outlook.com**
 
