@@ -13,15 +13,14 @@
   />
 </picture>
 
-<h1 align="center">Hello, I'm Khoi</h1>
-<h3 align="center">A university student passionate about technology and networking 🚀</h3>
+<h1 align="center">Hello, I'm Khoi. A university student passionate about technology and networking</h1>
+
 
 ---
 
 ## About Me
 -  Studying at **Vinh University**
 -  Language can speak: **Vietnamese, English, Chinese, Spanish**
--  How to reach me: **xuankhoi288@outlook.com**
 
 ## Tech Stack & Tools
 <p align="left">
@@ -36,7 +35,7 @@
   <a href="https://www.facebook.com/Awhile.8650">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="[Đường_dẫn_của_bạn]">
+<a href="https://www.instagram.com/sternness_8305/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/khoi2808/">
